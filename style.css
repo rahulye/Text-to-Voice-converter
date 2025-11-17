@@ -26,6 +26,8 @@
     flex: 2;
     padding: 0.25rem;
     border-radius: 1rem;
+    color: rgb(135, 143, 143);
+    padding-left: 2rem;
   }
 
   .toggle-btn {
