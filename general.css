@@ -10,7 +10,6 @@ html {
   scroll-behavior: smooth;
 }
 
-
 body {
   font-size: 1rem;
   width: 100%;
@@ -51,7 +50,7 @@ textarea {
   padding: 1rem;
   font-size: 1rem;
   resize: none;
-  background-color: var(--cle-very-light-grey);
+  background-color: var(--clr-very-light-grey);
   width: clamp(var(--container-xxxsm), 90vw, var(--container-md));
   height: clamp(var(--container-h-xsm), 100vh, var(--container-h-sm));
 }
@@ -65,7 +64,7 @@ select {
   outline: none;
   cursor: pointer;
 
-  background-color: var(--cle-very-light-grey);
+  background-color: var(--clr-very-light-grey);
   appearance: none;
   background-image: url(arrow-down.png);
   background-position-x: right;
